@@ -1,0 +1,16 @@
+body {
+	background: crimson;
+	font-family: 'Times New Roman', Times, serif;
+	text-align: center;
+}
+
+ol {
+	color: white;
+	font-family: cursive;
+	text-align: center;
+}
+
+h1 {
+	font-family: cursive;
+	color: white
+}
